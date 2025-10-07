@@ -33,15 +33,15 @@ This guide provides instructions for creating a lightweight, glowing battery-pow
 
 2.  **Reinforce Handle:**
    
-  A. Glue handle_1 to handle_2
+  A. Glue [handle_1](3dfiles/gold_handle_1.stl) to [handle_2](3dfiles/gold_handle_2.stl)
   
-  B. Place the Handle Support Rod through the hole of pieces handle_2, handle_3, ... handle_7.  Glue pieces handle_2, handle_3, ... handle_7 together, as well as each piece to the rod.
+  B. Place the Handle Support Rod through the hole of pieces [handle_2](3dfiles/gold_handle_2.stl), [handle_3](3dfiles/blue_handle_3.stl), [handle_4](3dfiles/gold_handle_4.stl), [handle_5](3dfiles/blue_handle_5.stl), [handle_6](3dfiles/gold_handle_6.stl), [handle_7](3dfiles/gold_handle_7.stl).  Glue pieces [handle_2](3dfiles/gold_handle_2.stl), [handle_3](3dfiles/blue_handle_3.stl), [handle_4](3dfiles/gold_handle_4.stl), [handle_5](3dfiles/blue_handle_5.stl), [handle_6](3dfiles/gold_handle_6.stl), [handle_7](3dfiles/gold_handle_7.stl). together, as well as each piece to the rod.
 
 <img height="500" src="https://github.com/user-attachments/assets/4af12dd9-1dcc-422f-8535-d233c967a222" alt="PXL_20251006_174548494" />
 
 4.  **Prepare bottom half of the blade**:
 
-  A. Glue blue_blade_1_bottom, blue_blade_2_bottom, blue_blade_3_bottom together.
+  A. Glue [blue_blade_1_bottom](3dfiles/blue_blade_1_bottom.stl), [blue_blade_2_bottom](3dfiles/blue_blade_2_bottom.stl), [blue_blade_3_bottom](3dfiles/blue_blade_3_bottom.stl) together.
   
   B. Insert **two steel support rods** into the hollow interior (one on each side of the center channel) and glue them securely to the plastic walls.
 
@@ -51,7 +51,7 @@ This guide provides instructions for creating a lightweight, glowing battery-pow
 
 <img height="500" src="https://github.com/user-attachments/assets/677d45b1-de25-4b30-b7d4-126f01079fa7" alt="PXL_20251006_185859039" />
 
-5.  **Route LED Wire:** Pass the **LED strip's power cable** (the end nearest the battery pack/switch) through the dedicated small hole in blade_1_top.
+5.  **Route LED Wire:** Pass the **LED strip's power cable** (the end nearest the battery pack/switch) through the dedicated small hole in [blade_1_top](3dfiles/blue_blade_1_top.stl).
 
 <img height="500" src="https://github.com/user-attachments/assets/d1191187-fe82-4cf6-b9ab-e3b5324f2511" alt="PXL_20251006_190757331" />
 
@@ -59,7 +59,7 @@ This guide provides instructions for creating a lightweight, glowing battery-pow
 
 <img height="500" src="https://github.com/user-attachments/assets/937fbfb3-7fb1-4a55-8f2c-a26802beea73" alt="PXL_20251006_191955460" />
 
-7.  **Final Closure:** Glue the second half of the blade, i.e blade_1_top, blade_2_top, blade_3_top, together and to the sword to finish the prop.
+7.  **Final Closure:** Glue the second half of the blade, i.e [blade_1_top](3dfiles/blue_blade_1_top.stl), [blade_2_top](3dfiles/blue_blade_2_top.stl), [blade_3_top](3dfiles/blue_blade_3_top.stl), together and to the sword to finish the prop.
 
 <img height="500" src="https://github.com/user-attachments/assets/138d1225-6c7b-4e54-bff5-5abe01c7bec3" alt="PXL_20251006_192823725" />
 
