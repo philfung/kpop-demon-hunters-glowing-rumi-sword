@@ -1,6 +1,6 @@
-# 🗡️ Making Rumi's Sword from KPop Demon Hunters
+# 🗡️ Making Prop of Rumi's Sword from KPop Demon Hunters
 
-This guide provides instructions for creating a lightweight, glowing battery-powered replica of Rumi's sword, scaled for a 5-6 year old. The sword is designed with a hollow interior to house the LED lighting and internal steel supports.
+This guide provides instructions for creating a lightweight, glowing battery-powered replica of Rumi's sword, scaled for a 5-6 year old to hold comfortably. The sword is designed with a hollow interior to house the LED lighting and internal supports.
 
 <img height="350" src="https://github.com/user-attachments/assets/5002bc1b-ffce-4518-ba41-e3ff5b22a6bb"/>
 
