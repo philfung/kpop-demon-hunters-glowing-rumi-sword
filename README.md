@@ -11,7 +11,7 @@ This guide provides instructions for creating a lightweight, glowing battery-pow
 
 | Item Name | Purpose | Purchase Link |
 | :--- | :--- | :--- |
-| **3D Print Filament (Translucent Blue/Purple)** | Blade material, allows light pass-through. | [https://www.amazon.com/dp/B0BHYRYHDY](https://www.amazon.com/dp/B0BHYRYHDY) |
+| **3D Print Filament (Translucent Blue/Purple)** | Blade material, allows light pass-through. | https://www.amazon.com/iSANMATE-Filament-Transparent-Printing-Dimensional/dp/B0D4HR3PGB|
 | **3D Print Filament (Gold Metal)** | Handle material. | [https://www.amazon.com/dp/B07RBSGZBM](https://www.amazon.com/dp/B07RBSGZBM) |
 | **Super Glue** | Bond all printed parts, LED strip, and support rods. | [https://www.amazon.com/dp/B0B1H2XD5S](https://www.amazon.com/dp/B0B1H2XD5S) |
 | **Battery-Powered Thin LED Light Strip** | Internal lighting for the glowing effect. | [https://www.amazon.com/dp/B0C4P9F9Y1](https://www.amazon.com/dp/B0C4P9F9Y1) |
