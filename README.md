@@ -14,7 +14,8 @@ This guide provides instructions for creating a lightweight, glowing battery-pow
 | **3D Print Filament (Translucent Blue/Purple)** | Blade material, allows light pass-through. | https://www.amazon.com/iSANMATE-Filament-Transparent-Printing-Dimensional/dp/B0D4HR3PGB|
 | **3D Print Filament (Gold Metal)** | Handle material. | [https://www.amazon.com/dp/B07RBSGZBM](https://www.amazon.com/dp/B07RBSGZBM) |
 | **Battery-Powered Thin LED Light Strip** | Internal lighting for the glowing effect. | [https://www.amazon.com/dp/B0C4P9F9Y1](https://www.amazon.com/dp/B0C4P9F9Y1) |
-| **Steel Support Rods** | Critical internal structure to support the hollow blade and handle. | [https://www.amazon.com/dp/B0CN79NZ7Y](https://www.amazon.com/dp/B0CN79NZ7Y) |
+| **Blade Support Rods** | Support the hollow blade| [https://www.amazon.com/dp/B0CN79NZ7Y](https://www.amazon.com/dp/B0CN79NZ7Y) |
+| **Handle Support Rod** | Support the handle | https://www.amazon.com/FOCMKEAS-Carbon-6mm-400mm-Airplane/dp/B0DGF28DT8 |
 | **Super Glue** | Bond all printed parts, LED strip, and support rods. | [https://www.amazon.com/dp/B0B1H2XD5S](https://www.amazon.com/dp/B0B1H2XD5S) |
 | **Clear Tape** | tape LED strip to sword (optional, can use super glue) | https://www.amazon.com/Scotch-Dispenser-Narrow-Engineered-119/dp/B00006IF5G |
 
