@@ -6,6 +6,7 @@ This guide provides instructions for creating a lightweight, glowing battery-pow
 
 <img width="350" src="https://github.com/user-attachments/assets/fc40d2bc-f6a2-493b-b6fe-d8394f35069c"/>
 
+WARN: its a bit of work to do this DIY. if you don't enjoy this type of work, they may sell similar items on Etsy.
 
 # ⚙️🔩📄 Bill of Materials
 
