@@ -1,13 +1,13 @@
-# Making Rumi's Sword from Kpop Demon Hunters
+# 🗡️ Making Rumi's Sword from KPop Demon Hunters
 
 This guide provides instructions for creating a lightweight, glowing battery-powered replica of Rumi's sword, scaled for a 5-6 year old. The sword is designed with a hollow interior to house the LED lighting and internal steel supports.
 
-<img height="300" src="https://github.com/user-attachments/assets/5002bc1b-ffce-4518-ba41-e3ff5b22a6bb"/>
+<img height="350" src="https://github.com/user-attachments/assets/5002bc1b-ffce-4518-ba41-e3ff5b22a6bb"/>
 
-<img height="400" src="https://github.com/user-attachments/assets/fc40d2bc-f6a2-493b-b6fe-d8394f35069c"/>
+<img width="350" src="https://github.com/user-attachments/assets/fc40d2bc-f6a2-493b-b6fe-d8394f35069c"/>
 
 
-## Bill of Materials 🛠️
+# ⚙️🔩📄 Bill of Materials
 
 | Item Name | Purpose | Purchase Link |
 | :--- | :--- | :--- |
@@ -19,13 +19,13 @@ This guide provides instructions for creating a lightweight, glowing battery-pow
 
 *Required tools: 3D printer, needle-nose pliers, and tape.*
 
-## 3D Files
+# 🗄 3D Files
 
 The base files are modified versions of the [Rumi Sword files from RavenCosplay](https://www.thingiverse.com/thing:7094317), edited to be scaled for a small child and hollowed out for internal electronics and support rods.
 
 ---
 
-## Assembly Instructions
+# 🛠️ Assembly Instructions
 
 1.  **Print Components:** 3D print all files. Use **translucent blue/purple** for blade parts and **gold metal** for handle parts. Carefully remove all printing supports, especially from the thin blade halves.
   
