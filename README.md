@@ -13,11 +13,15 @@ This guide provides instructions for creating a lightweight, glowing battery-pow
 | :--- | :--- | :--- |
 | **3D Print Filament (Translucent Blue/Purple)** | Blade material, allows light pass-through. | https://www.amazon.com/iSANMATE-Filament-Transparent-Printing-Dimensional/dp/B0D4HR3PGB|
 | **3D Print Filament (Gold Metal)** | Handle material. | [https://www.amazon.com/dp/B07RBSGZBM](https://www.amazon.com/dp/B07RBSGZBM) |
-| **Super Glue** | Bond all printed parts, LED strip, and support rods. | [https://www.amazon.com/dp/B0B1H2XD5S](https://www.amazon.com/dp/B0B1H2XD5S) |
 | **Battery-Powered Thin LED Light Strip** | Internal lighting for the glowing effect. | [https://www.amazon.com/dp/B0C4P9F9Y1](https://www.amazon.com/dp/B0C4P9F9Y1) |
 | **Steel Support Rods** | Critical internal structure to support the hollow blade and handle. | [https://www.amazon.com/dp/B0CN79NZ7Y](https://www.amazon.com/dp/B0CN79NZ7Y) |
+| **Super Glue** | Bond all printed parts, LED strip, and support rods. | [https://www.amazon.com/dp/B0B1H2XD5S](https://www.amazon.com/dp/B0B1H2XD5S) |
+| **Clear Tape** | tape LED strip to sword (optional, can use super glue) | https://www.amazon.com/Scotch-Dispenser-Narrow-Engineered-119/dp/B00006IF5G |
 
-*Required tools: 3D printer, needle-nose pliers, and tape.*
+
+*Required tools* 
+1. 3D printer
+2. needle-nose pliers to remove supports.
 
 # 🗄 3D Files
 
